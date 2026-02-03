@@ -11,4 +11,4 @@ My tech-stack of choice for full-stack development is *Laravel* and *Vue.js*, th
 
 #### Contact
 
-- Email: [wograndl.raoul@gmail.com](mailto:wograndl.raoul@gmail.com)
+- Email: `wograndl.raoul <at> gmail.com`
